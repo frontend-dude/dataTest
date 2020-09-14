@@ -1,0 +1,43 @@
+{
+	"login": {
+		"buttonText": "Fortsæt",
+		"styleModifier": "a-button a-button--primary o-login__cta",
+		"iconId": "icon-chevron-tivoli"
+	},	
+	"loginText": {
+		"phraseText": "Log in med",
+		"linkText": "Nem ID",
+		"link": "#",
+		"styleModifier": "a-link"
+	},
+	"forgotPassword": {
+		"phraseText": "Vil du heller logge ind med dit brugernavn",
+		"linkText": "klik her",
+		"link": "#",
+		"styleModifier": "a-link"
+	},
+	"personalNumber": {
+		"phraseText": "",
+		"linkText": "Glemt adgangskode",
+		"link": "#",
+		"styleModifier": "a-link"
+	},
+	"PersonalInformation": {
+		"phraseText": "Har du brug for hjælp",
+		"linkText": "kontakt kundeservice",
+		"link": "#",
+		"styleModifier": "a-link"
+	},
+	"profile": {
+		"phraseText": "Har du brug for hjælp",
+		"linkText": "kontakt kundeservice",
+		"link": "#",
+		"styleModifier": "a-link"
+	},
+	"securityQuestion": {
+		"phraseText": "Har du brug for hjælp",
+		"linkText": "kontakt kundeservice",
+		"link": "#",
+		"styleModifier": "a-link"
+	}
+}
